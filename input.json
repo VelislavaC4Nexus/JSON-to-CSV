@@ -1,10 +1,59 @@
-[
-  {
-    "id": 107,
-    "title": "wood perfume Oil 7"
-  },
-  {
-    "id": 108,
-    "title": "black perfume Oil 8"
-  }
-]
+{
+  "allOrNone": false,
+  "records": [
+    {
+      "attributes": { "type": "PricebookEntry" },
+      "Pricebook2Id": "01s68000002d6IvAAI",
+      "Product2": { "Article_SAP_Code__c": "5200451780" },
+      "CurrencyIsoCode": "EUR",
+      "UnitPrice": 20.96,
+      "IsActive": true,
+      "SAP_Code__c": "5200451780_01s68000002d6IvAAI_EUR"
+    },
+    {
+      "attributes": { "type": "PricebookEntry" },
+      "Pricebook2Id": "01s68000002d6IvAAI",
+      "Product2": { "Article_SAP_Code__c": "5200451780" },
+      "CurrencyIsoCode": "RON",
+      "UnitPrice": 104.06,
+      "IsActive": true,
+      "SAP_Code__c": "5200451780_01s68000002d6IvAAI_RON"
+    },
+    {
+      "attributes": { "type": "PricebookEntry" },
+      "Pricebook2Id": "01s68000002d6IvAAI",
+      "Product2": { "Article_SAP_Code__c": "5200452777" },
+      "CurrencyIsoCode": "EUR",
+      "UnitPrice": 69.16,
+      "IsActive": true,
+      "SAP_Code__c": "5200452777_01s68000002d6IvAAI_EUR"
+    },
+    {
+      "attributes": { "type": "PricebookEntry" },
+      "Pricebook2Id": "01s68000002d6IvAAI",
+      "Product2": { "Article_SAP_Code__c": "5200452777" },
+      "CurrencyIsoCode": "RON",
+      "UnitPrice": 343.37,
+      "IsActive": true,
+      "SAP_Code__c": "5200452777_01s68000002d6IvAAI_RON"
+    },
+    {
+      "attributes": { "type": "PricebookEntry" },
+      "Pricebook2Id": "01s68000002d6IvAAI",
+      "Product2": { "Article_SAP_Code__c": "5200550901" },
+      "CurrencyIsoCode": "RON",
+      "UnitPrice": 1147.68,
+      "IsActive": true,
+      "SAP_Code__c": "5200550901_01s68000002d6IvAAI_RON"
+    },
+    {
+      "attributes": { "type": "PricebookEntry" },
+      "Pricebook2Id": "01s68000002d6IvAAI",
+      "Product2": { "Article_SAP_Code__c": "5200550904" },
+      "CurrencyIsoCode": "RON",
+      "UnitPrice": 4621.92,
+      "IsActive": true,
+      "SAP_Code__c": "5200550904_01s68000002d6IvAAI_RON"
+    }
+  ]
+}
